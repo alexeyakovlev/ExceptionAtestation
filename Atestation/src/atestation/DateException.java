@@ -1,7 +1,7 @@
 package atestation;
 
 public class DateException extends Exception{
-    public DataException() {
+    public DataException () {
     }
 
     public void dataException(String i) {

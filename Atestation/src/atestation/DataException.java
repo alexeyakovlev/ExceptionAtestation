@@ -1,7 +1,7 @@
 package atestation;
 
 public class DataException extends Exception {
-    public DataException() {
+    public DataException () {
 
     }
 

@@ -3,7 +3,7 @@ package atestation;
 import java.util.Scanner;
 
 public class InputData {
-    public String[] enterData() {
+    public String[] enterData () {
         Scanner sc = new Scanner(System.in);
         while (true){
             System.out.println("Введите строку через пробел (строка должна содержать Ф.И.О., дату рождения - dd.mm.yyyy, номер телефона, пол м/ж): ");

@@ -1,7 +1,7 @@
 package atestation;
 
 public class SexException extends Exception{
-    public SexException() {
+    public SexException () {
     }
 
     public void sexException(String i) {
